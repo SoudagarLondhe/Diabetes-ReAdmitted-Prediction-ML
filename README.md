@@ -1,6 +1,4 @@
 ## Diabetes Readmission Prediction
-This project explores and analyzes the Diabetes 130-US hospitals for years 1999–2008 dataset from the UCI Machine Learning Repository ([Link](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008)) to predict patient readmissions after hospital visits.
-
 This project aims to build a predictive machine learning model that classifies whether a diabetic patient is likely to be readmitted to the hospital within 30 days based on clinical and demographic data. The solution is built using Python and popular ML libraries and is intended to support healthcare providers in identifying high-risk patients to improve care and reduce costs.
 
 ## Project Overview
